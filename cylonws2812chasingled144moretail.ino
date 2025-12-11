@@ -10,8 +10,8 @@
 #include <Adafruit_NeoPixel.h>
 #include <elapsedMillis.h> // Required for non-blocking timing
 
-#define PIN 16
-#define NUM_LEDS 50
+#define PIN 16 //gpio data to levelconverter to strip
+#define NUM_LEDS 50 //total leds in strip
 #define NR_OF_CHASING_LEDS 20 // <-- Define the length of the chasing segment
 #define scantime 100         // The step interval in milliseconds (how fast it moves)
 
