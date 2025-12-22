@@ -1,4 +1,4 @@
-# cylon-chasing-led-kitcar
+# cylon-chasing-led-knightrider chasing led
 scripts for running cylon effect with ledstrips <br/>
 sk6812 was a nightmare to get settings right grbw was the setting jeezes <br/>
 Had this strip laying around and did test, problem is spacing between the leds for my strip 25mm too big. <br/>
