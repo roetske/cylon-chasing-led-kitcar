@@ -6,4 +6,6 @@ Fastled did not get working for sk6812. <br/>
 Adafruit neopixel worked ;). 
 Worked also with buffer for com levelshifter 3.3v to 5v. sn74ahct125n <br/>
 Nonused ports sn74 to gnd an notenable to 5v.<br/>
+common mistake seperate powersupply for led and controller do not forget <br/>
+to connect the grounds together when using 2 seperate powersupplies.<br/>
 Ledstripcode for 144led/m ws1812 grb with tail which you can set. <br/>
